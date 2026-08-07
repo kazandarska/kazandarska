@@ -1,6 +1,5 @@
-# Hi there, I'm Kasia 
+# Hi there, I'm Kasia!
 
-<!--
 ### Data Engineer (in the making) | Bash Enthusiast 
 
 Welcome to my GitHub! I am an aspiring Data Engineer who is currently learning from scratch. 
