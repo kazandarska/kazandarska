@@ -7,6 +7,6 @@ I believe that the best data pipelines are born in clean, well-written shell scr
 I'm on a mission to transform the raw dust of data into organized structures. 
 
 ### Tech Stack I'm learning:
-**OS:** LInux/Bash
+**OS:** Linux/Bash
 **Data:** SQL
 **Language:** Python/Golang
