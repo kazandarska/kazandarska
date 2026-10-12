@@ -9,4 +9,4 @@ I'm on a mission to transform the raw dust of data into organized structures.
 ### Tech Stack I'm learning:
 **OS:** Linux/Bash
 **Data:** SQL
-**Language:** Golang
+**Language:** AWK, Erlang/Elixir
